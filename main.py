@@ -1,2 +1,2 @@
-st_list = ["Santiago", "nicolas"]
+st_list = ["Santiago", "nicolas", "Profe"]
 print(st_list)
