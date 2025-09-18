@@ -1,2 +1,2 @@
-st_list = []
+st_list = ["Santiago"]
 print(st_list)
